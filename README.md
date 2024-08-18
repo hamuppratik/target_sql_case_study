@@ -1,4 +1,4 @@
-# target_sql_case_study
+# Target Business Case Study
 
 In this project, I analyzed a dataset of 100,000 e-commerce orders from 2016 to 2018 for a leading retail company in Brazil. 
 Using SQL, I uncovered key trends in customer behavior, pricing variations, and shipping preferences. 
